@@ -1,16 +1,20 @@
-# hadeer_app
+# Final Year Project // Projek Tahun Akhir
 
-A new Flutter project.
+Final Year Project for my Degree , Bachelor Of Information Technology (HONS) In Software Engineering at Universiti Kuala Lumput (UniKL).
 
-## Getting Started
+# Hadeer: Employee Attendance Mobile Application (HEAMA)
 
-This project is a starting point for a Flutter application.
+Hadeer: Employee Attendance Mobile Application is a mobile application where users can record their attendance for entering and leaving their workplace premises without the need for manual attendance tracking. This is because manual attendance tracking is impractical to use. In this context, manual systems are not relevant for use in today's technology. This is due to the majority of people preferring to use online methods for tracking their work hours. Hadeer is an effective application to be implemented in companies or institutions that still rely on manual attendance tracking. By downloading the Hadeer application, users can easily utilize this system to track their attendance. The project aims to achieve success and help build a better solution for attendance tracking.Throughout the development of HEAMA version 1.0.0, HEAMA was only tested to run on android plafform and neveer tested to run on IOS. Below are some of key feature of HEAMA:
+```
+- Use Dart (Flutter Framework) to develop mobile application,
+- Use Google Cloud Firebase Database as live database
+```
+- HEAMA allow user to register and login to the system .
+- HEAMA able to get the OTP as provide a phone number as authentication.
+- HEAMA able to manage user attendance along with record their current location. 
+- HEAMA allow user to download report of their attendance based on their record in database. 
+- HEAMA allow user to manage leave application. 
 
-A few resources to get you started if this is your first Flutter project:
+HEAMA is currently missing it key feature, which was to allow user to only take their attendance once their location is exactly at the premise located, and allow user to take a selfie first before take their attendance as credential feature.Future update will surely have the missing function completely developed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+updated on 13/6/2023
